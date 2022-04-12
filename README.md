@@ -1,4 +1,14 @@
 
+### Implementation
+
+Workflow was implemented through dashboard.
+
+Authorizing a capturable payment intent.
+
+Import the method and types
+Access the response properties upon a successful response.
+
+
 
 ### Installation
 
