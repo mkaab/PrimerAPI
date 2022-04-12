@@ -1,6 +1,4 @@
-# Primer Integration Walkthrough
 
-## Getting Started
 
 ### Installation
 
