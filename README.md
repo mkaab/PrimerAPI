@@ -19,11 +19,7 @@ $ yarn
 $ npm i
 ```
 
-### Set the environment variables
 
-Grab your API Key, or create a new API Key, from [Primer's dashboard](https://sandbox-dashboard.primer.io/developers).
-
-![Dashboard API Key](./images/apikey.png)
 
 Clone `env.example` and name the cloned file `.env`.
 
