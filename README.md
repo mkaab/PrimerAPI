@@ -5,7 +5,7 @@
 ### Installation
 
 ```bash
-$ git clone git@github.com:primer-io/integration-walkthrough.git
+$ git clone git@github.com:mkaab/PrimerAPI
 $ cd ./integration-walkthrough
 ```
 
