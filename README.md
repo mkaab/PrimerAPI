@@ -40,6 +40,7 @@ $ yarn start
 # With npm
 $ npm start
 ```
+We are using a test token for this example which returns authorized status for all payments made by card in GBP.
 
 The server is deployed on port 8880 by default. You can change the port by setting the `PORT` environment variable in the `.env` file.
 
