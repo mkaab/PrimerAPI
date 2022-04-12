@@ -4,7 +4,7 @@
 
 ```bash
 $ git clone git@github.com:mkaab/PrimerAPI
-$ cd ./integration-walkthrough
+
 ```
 
 Install the dependencies using yarn or npm.
